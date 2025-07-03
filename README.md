@@ -1,5 +1,5 @@
 # 50-Startups
-simple linear regression with 50 Startup5 in USA
+simple linear regression with 50 Startup in USA
 # Simple Linear Regression – Real Estate Prices
 
 This project performs a simple linear regression to analyze the relationship between real estate prices and property sizes, as part of the W4479 Applied Project using R (Winter Semester 2023/2024).
